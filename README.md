@@ -8,6 +8,7 @@
 - 💬 Ask me about: Python, LLMs, Software Testing, CI/CD, and Docker.
 - 📫 How to reach me: [michaelharris96@gmail.com](mailto:michaelharris96@gmail.com)
 - 🔗 My LinkedIn: [linkedin.com/in/michael-harris96](https://www.linkedin.com/in/michael-harris96)
+- 🎓 My Google Scholar: [Scholar Profile](https://scholar.google.com/citations?user=47lnTrsAAAAJ)
 
 #### 🛠️ My Tech Stack
 - **Languages:** Python (Expert), JavaScript, SQL, Bash
