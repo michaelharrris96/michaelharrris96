@@ -16,4 +16,4 @@
 - **AI/ML:** LLM Evaluation, Prompt Engineering, LangChain, OpenAI APIs
 
 #### 📊 GitHub Stats
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-harris-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelharrris96&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
