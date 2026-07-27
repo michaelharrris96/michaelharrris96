@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi, I'm Michael Harris
 
-<!--
-**michaelharrris96/michaelharrris96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer** with 6+ years of experience specializing in Python, software quality assurance, and AI model evaluation.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on: Building LLM evaluation frameworks to validate AI-generated code for accuracy and security.
+- 🌱 I'm currently learning: Advanced Prompt Engineering and Large Language Model architectures.
+- 👯 I'm looking to collaborate on: Open-source Python projects and AI benchmarking tools.
+- 💬 Ask me about: Python, LLMs, Software Testing, CI/CD, and Docker.
+- 📫 How to reach me: [michaelharris96@gmail.com](mailto:michaelharris96@gmail.com)
+- 🔗 My LinkedIn: [linkedin.com/in/michael-harris96](https://www.linkedin.com/in/michael-harris96)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ My Tech Stack
+- **Languages:** Python (Expert), JavaScript, SQL, Bash
+- **Frameworks/Libraries:** Django, Flask, PyTest
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions
+- **AI/ML:** LLM Evaluation, Prompt Engineering, LangChain, OpenAI APIs
+
+#### 📊 GitHub Stats
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-harris-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
